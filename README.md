@@ -64,3 +64,9 @@
 ### Infrared Sensor Circuit
 
 ![Infrared Circuit](images/circuit/infrared_sensor_circuit.png)
+
+## Project Document
+
+프로젝트 기획 및 문제 분석 문서
+
+- [Project Planning](./Smart_TrashBin_Project_Planning.pdf)
