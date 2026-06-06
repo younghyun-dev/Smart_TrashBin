@@ -6,6 +6,12 @@
 
 교내 쓰레기통 포화 문제를 해결하기 위해 개발한 스마트 쓰레기통 시스템입니다.
 
+## Project Document
+
+프로젝트 기획 및 문제 분석 문서
+
+- [Project Planning](./Smart_TrashBin_Project_Planning.pdf)
+
 ## 개발 환경
 
 - Arduino Uno
@@ -64,9 +70,3 @@
 ### Infrared Sensor Circuit
 
 ![Infrared Circuit](images/circuit/infrared_sensor_circuit.png)
-
-## Project Document
-
-프로젝트 기획 및 문제 분석 문서
-
-- [Project Planning](./Smart_TrashBin_Project_Planning.pdf)
