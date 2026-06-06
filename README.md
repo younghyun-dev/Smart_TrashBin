@@ -46,3 +46,21 @@
 ### infrared_sensor_motor_control.ino
 - 적외선 센서를 이용한 쓰레기 투입 감지
 - 모터 및 기어 구조를 활용한 압축 기능 구현
+
+## Prototype
+
+![Prototype](images/prototype.jpg)
+
+## Gear Structure
+
+![Gear](images/gear.jpg)
+
+## Circuit
+
+### Ultrasonic Sensor Circuit
+
+![Ultrasonic Circuit](images/circuit/ultrasonic_sensor_circuit.png)
+
+### Infrared Sensor Circuit
+
+![Infrared Circuit](images/circuit/infrared_sensor_circuit.png)
